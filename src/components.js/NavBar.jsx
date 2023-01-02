@@ -30,7 +30,7 @@ const NavBar = () => {
         </Navbar.Collapse>
       </Container>
     </Navbar>
-    </div>
+    </div> 
 </header>
               
              
